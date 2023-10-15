@@ -3,7 +3,7 @@
 
 https://github.com/kevadiyaharshita/Drag_and_dropGame/assets/133105068/f29ecefd-04f7-4fae-bcbd-c98ea8b6e68d
 
-<img src="https://github.com/kevadiyaharshita/Drag_and_dropGame/assets/133105068/f56c3311-edb4-4a3e-9020-cdfd35d48ca3" width="300px">
+
 <img src="https://github.com/kevadiyaharshita/Drag_and_dropGame/assets/133105068/02fc75a3-32ae-4102-b775-57bfdd488fde" width="300px">
 <img src="https://github.com/kevadiyaharshita/Drag_and_dropGame/assets/133105068/eaec9924-a28a-4793-82e8-b7e45edad4b9" width="300px">
 <img src="https://github.com/kevadiyaharshita/Drag_and_dropGame/assets/133105068/98ff54e4-3164-4038-b919-57237db291f3" width="300px">
